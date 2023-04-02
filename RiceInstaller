@@ -98,9 +98,9 @@ sleep 3
 ########## ---------- Cloning the Rice! ---------- ##########
 
 [ -d ~/dotfiles ] && rm -rf ~/dotfiles
-printf "Cloning rice from https://github.com/gh0stzk/dotfiles\n\n"
+printf "Cloning rice from https://github.com/TheV0idxz/dotfiles\n\n"
 cd $HOME
-git clone --depth=1 https://github.com/gh0stzk/dotfiles.git
+git clone --depth=1 https://github.com/TheV0idxz/dotfiles.git
 sleep 2
 
 ########## ---------- Backup files ---------- ##########
